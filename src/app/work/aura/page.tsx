@@ -366,10 +366,10 @@ t      <section ref={heroRef} className="relative z-0 min-h-screen flex flex-col
 
             <div className="flex flex-col gap-4 md:items-end">
               <a
-                href="mailto:hello@aura.studio"
+                href="mailto:velodevinquiries@gmail.com"
                 className="group inline-flex items-center gap-2 text-lg text-cyan-400 hover:text-white transition-colors"
               >
-                hello@aura.studio
+                velodevinquiries@gmail.com
                 <ArrowUpRight className="w-5 h-5 group-hover:rotate-45 transition-transform" />
               </a>
               <p className="text-xs text-gray-600 max-w-xs text-right">

@@ -53,10 +53,10 @@ export default function Contact() {
 
             <div className="flex items-center gap-4">
               <a
-                href="mailto:hello@velodev.com"
+                href="mailto:velodevinquiries@gmail.com"
                 className="inline-flex items-center gap-2 text-sm text-accent-light hover:text-white transition-colors duration-300"
               >
-                hello@velodev.com
+                velodevinquiries@gmail.com
                 <ArrowUpRight className="w-4 h-4" />
               </a>
             </div>
